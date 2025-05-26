@@ -25,8 +25,8 @@ This project implements an unsupervised image clustering pipeline using various 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/mmandernach13/Unsupervised-Object-Recognition.git
+   cd Unsupervised-Object-Recognition
    ```
 
 2. **Install Dependencies**: Ensure you have Python 3.8+ installed. Install the required packages using:
@@ -38,7 +38,7 @@ This project implements an unsupervised image clustering pipeline using various 
 3. **Download CIFAR-10 Dataset**: Download the CIFAR-10 dataset (Python version) from https://www.cs.toronto.edu/\~kriz/cifar.html and extract it. Place the batch files (e.g., `data_batch_1`, `data_batch_2`) in a `cifar-10` folder within the project directory:
 
    ```
-   <your-repo-name>/cifar-10/data_batch_1
+   Unsupervised-Object-Recognition/cifar-10/data_batch_1
    ```
 
 ## Usage
