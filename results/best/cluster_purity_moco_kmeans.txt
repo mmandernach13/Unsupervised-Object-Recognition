@@ -1,0 +1,80 @@
+Cluster Purity Analysis (Grouped by Dominant Class):
+----------------------------------------------------
+
+Dominant Class: 0
+----------------------------------------
+Cluster 8: 90.17% purity
+Cluster 6: 32.53% purity
+
+Dominant Class: 1
+----------------------------------------
+Cluster 0: 97.36% purity
+Cluster 3: 81.98% purity
+
+Dominant Class: 2
+----------------------------------------
+Cluster 2: 98.12% purity
+Cluster 11: 90.76% purity
+
+Dominant Class: 3
+----------------------------------------
+Cluster 13: 92.27% purity
+Cluster 4: 22.75% purity
+
+Dominant Class: 4
+----------------------------------------
+Cluster 19: 72.64% purity
+
+Dominant Class: 5
+----------------------------------------
+Cluster 16: 95.65% purity
+Cluster 7: 81.37% purity
+
+Dominant Class: 6
+----------------------------------------
+Cluster 10: 81.61% purity
+Cluster 12: 69.68% purity
+
+Dominant Class: 7
+----------------------------------------
+Cluster 5: 86.07% purity
+Cluster 1: 42.98% purity
+
+Dominant Class: 8
+----------------------------------------
+Cluster 15: 95.43% purity
+Cluster 9: 88.93% purity
+
+Dominant Class: 9
+----------------------------------------
+Cluster 14: 89.15% purity
+Cluster 18: 88.92% purity
+Cluster 17: 78.15% purity
+
+Overall Statistics:
+Average cluster purity: 78.83%
+Number of clusters: 20
+
+Duplicate dominant classes (appearing in multiple clusters):
+Class 0 appears in 2 clusters: Cluster 8 (90.2%), Cluster 6 (32.5%)
+Class 1 appears in 2 clusters: Cluster 0 (97.4%), Cluster 3 (82.0%)
+Class 2 appears in 2 clusters: Cluster 2 (98.1%), Cluster 11 (90.8%)
+Class 3 appears in 2 clusters: Cluster 13 (92.3%), Cluster 4 (22.7%)
+Class 5 appears in 2 clusters: Cluster 16 (95.7%), Cluster 7 (81.4%)
+Class 6 appears in 2 clusters: Cluster 10 (81.6%), Cluster 12 (69.7%)
+Class 7 appears in 2 clusters: Cluster 5 (86.1%), Cluster 1 (43.0%)
+Class 8 appears in 2 clusters: Cluster 15 (95.4%), Cluster 9 (88.9%)
+Class 9 appears in 3 clusters: Cluster 14 (89.2%), Cluster 18 (88.9%), Cluster 17 (78.2%)
+
+Rank-k Classification Accuracy:
+------------------------------
+Rank-1 accuracy: 69.68%
+Rank-2 accuracy: 82.86%
+Rank-3 accuracy: 89.01%
+Rank-4 accuracy: 92.40%
+Rank-5 accuracy: 94.40%
+Rank-6 accuracy: 95.73%
+Rank-7 accuracy: 96.74%
+Rank-8 accuracy: 97.38%
+Rank-9 accuracy: 97.95%
+Rank-10 accuracy: 98.29%
